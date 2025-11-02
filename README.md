@@ -1,1 +1,4 @@
-# Case-Study-03-Group-F
+# Mencari Insight dan Membandingkan Machine Learning Model (LR, RF, kNN, dan DT) pada Dataset Rata-Rata Penggunaan Energi Listrik (Case-Study-03-Group-F)
+
+## Deskripsi
+Studi kasus ini diambil dari https://www.kaggle.com/competitions/ashrae-energy-prediction/data dengan permasalahan dan data understanding yang sama, tetapi menggunakan dataset yang sudah dimodifikasi menjadi "rata-rata" penggunaan energi listrik dari berbagai gedung. Goal pada studi kasus ini kami berperan sebagai data miner yang memiliki tugas utama mencari insight sebanyak banyaknya dari data energi listrik dengan EDA (Exploratory Data Analysis) dan menggunakan model. Di sini kami membandingkan empat model, diantaranya Linear Regression (LR), Random Forest (RF), k-Nearest Neighbors (kNN), dan Decision Tree (DT). Kemudian keempat model ini dipilih sebagai tools untuk mendapatkan insight.
